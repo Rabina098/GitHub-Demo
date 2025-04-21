@@ -1,3 +1,3 @@
 # GitHub-Demo
-This is my first Git repository 
-Rabina Rana
+This is my first Git repository. 
+Author-Rabina Rana
